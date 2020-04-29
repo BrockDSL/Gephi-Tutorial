@@ -22,12 +22,12 @@ NOTE: There are several sample datasets on the Gephi wiki [here](https://github.
 * Open up a spreadsheet program such as Excel or Google Sheets. You will be creating two (or three) separate sheets, one for the Nodes, one for the character interactions that you will turn into one for the Edges.
 
 ![1][1]
-
-	Above is an example of a Nodes sheet. The only required column is the Id column, as it is used for the Edges sheet, but it is highly recommended if you are going to be creating texts about it to add more context through the Label column.
+ 
+ Above is an example of a Nodes sheet. The only required column is the Id column, as it is used for the Edges sheet, but it is highly recommended if you are going to be creating texts about it to add more context through the Label column.
 
 ![2][2]
-
-	This is an example of the character interactions sheet before it is turned into the Edges sheet below.
+ 
+ This is an example of the character interactions sheet before it is turned into the Edges sheet below.
 
 ![3][3]
 
@@ -42,8 +42,8 @@ NOTE: There are several sample datasets on the Gephi wiki [here](https://github.
 * Next up is the Edges sheet. Copy and paste the character interactions into a blank sheet, where you will then convert the characters into their unique Ids from the Nodes sheet. You can do this through using the ‘Replace’ function from using the keys Ctrl + H. Next add two more columns and title them Type and Weight.
 
 ![5][5]
-
-	As we are only doing base character interactions, you can simply fill out Type with ‘undirected’ and Weight with ‘1’. However, if you wanted to go more in depth with whether or not a character is speaking to, or being spoken at, you can change around the Type to ‘directed’. Or if you wanted to, for example, include how many lines are spoken in the interaction, you can change the Weight (this will enable you to view how many lines are said in between two characters). When imported into Gephi, this sheet will be used to create connections between the Ids for the Nodes created via the Nodes .csv file.
+ 
+ As we are only doing base character interactions, you can simply fill out Type with ‘undirected’ and Weight with ‘1’. However, if you wanted to go more in depth with whether or not a character is speaking to, or being spoken at, you can change around the Type to ‘directed’. Or if you wanted to, for example, include how many lines are spoken in the interaction, you can change the Weight (this will enable you to view how many lines are said in between two characters). When imported into Gephi, this sheet will be used to create connections between the Ids for the Nodes created via the Nodes .csv file.
 
 * Finally, save your Edges sheet as a .csv file and make sure to give it a descriptive name.
 
