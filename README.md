@@ -48,7 +48,7 @@ As we are only doing base character interactions, you can simply fill out Type w
 * Finally, save your Edges sheet as a .csv file and make sure to give it a descriptive name.
 
 
-### Importing the Data into Gephi
+### Step Two: Importing the Data into Gephi
 * Open up Gephi, and create a new project. Next, click on the button near the top that says “Data Laboratory and then click on “Import Spreadsheet” which is under the “Data Table” tab.
 
 ![6][6]
@@ -68,7 +68,7 @@ Click next, and select which columns you wish to import on the next page. The �
 * Now click on the ‘Overview’ tab at the top to view your rudimentary Gephi graph.
 
 
-### Using Gephi
+### Step Three: Using Gephi
 * Basics of using Gephi
 - To zoom in and out, use your mouse wheel
 - To pan throughout your graph, use right mouse click and drag to where you want to see
