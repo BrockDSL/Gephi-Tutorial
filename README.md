@@ -12,7 +12,9 @@ The purpose of this tutorial is to teach you to be able to utilize Gephi to visu
 
 **Edges:** Links in between nodes of a graph. Examples: character interactions, events, or themes. 
 
+
 **NOTE: There are several sample datasets on the Gephi wiki [here](https://github.com/gephi/gephi/wiki/Datasets).**
+
 
 ### Step One: Detailing the Data
 * Select the text that you will be creating data from.
