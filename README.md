@@ -4,15 +4,13 @@
 # Introduction
 Gephi is a free and open-source platform for data visualization and exploration. It allows for interactions and analysis of graph data, and includes the enabling of various tools such as shaping, colouring and manipulation of structures so that one can easier see the patterns within. According to the developers, the platform can be used for: exploratory data analysis, link analysis, social network analysis, biological network analysis, and poster creation. 
 
-The purpose of this tutorial is to teach you to be able to utilize Gephi to visualize various aspects of texts. This tutorial will be teaching you first to create a dataset, second to import it into Gephi, and finally, how to do some basic manipulations. The text used in the samples for the creation and importing of the dataset will be an ancient comedy by Terence called The Brothers, the translation used will be the one in Terence: The Comedies translated by Peter Brown.
+The purpose of this tutorial is to teach you to be able to utilize Gephi to visualize various aspects of texts. This tutorial will be teaching you first to create a dataset, second to import it into Gephi, and finally, how to do some basic manipulations. The text used in the samples for the creation and importing of the dataset will be an ancient comedy by Terence called *The Brothers*, the translation used will be the one in *Terence: The Comedies* translated by Peter Brown.
 
 Definitions:
-Nodes: Vertices of a graph, these represent specific objects. Examples: events or characters.
-Edges: Links in between nodes of a graph. Examples: character interactions, events, or themes. 
+**Nodes:** Vertices of a graph, these represent specific objects. Examples: events or characters.
+**Edges:** Links in between nodes of a graph. Examples: character interactions, events, or themes. 
 
-
-
-NOTE: There are several sample datasets on the Gephi wiki [here](https://github.com/gephi/gephi/wiki/Datasets).
+**NOTE: There are several sample datasets on the Gephi wiki [here](https://github.com/gephi/gephi/wiki/Datasets).**
 
 ### Step One: Detailing the Data
 * Select the text that you will be creating data from.
