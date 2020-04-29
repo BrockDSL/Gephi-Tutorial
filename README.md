@@ -6,8 +6,10 @@ Gephi is a free and open-source platform for data visualization and exploration.
 
 The purpose of this tutorial is to teach you to be able to utilize Gephi to visualize various aspects of texts. This tutorial will be teaching you first to create a dataset, second to import it into Gephi, and finally, how to do some basic manipulations. The text used in the samples for the creation and importing of the dataset will be an ancient comedy by Terence called *The Brothers*, the translation used will be the one in *Terence: The Comedies* translated by Peter Brown.
 
-Definitions:
+**Definitions:**
+
 **Nodes:** Vertices of a graph, these represent specific objects. Examples: events or characters.
+
 **Edges:** Links in between nodes of a graph. Examples: character interactions, events, or themes. 
 
 **NOTE: There are several sample datasets on the Gephi wiki [here](https://github.com/gephi/gephi/wiki/Datasets).**
