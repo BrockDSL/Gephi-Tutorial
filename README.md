@@ -132,6 +132,8 @@ To view the graph’s most recent manipulations, select the ‘Refresh’ button
 
 **NOTE: SVG files can be edited further in programs such as Inkscape and Adobe Illustrator.**
 
+
+
 Make sure to save your project, and thank you for reading!
 
  
